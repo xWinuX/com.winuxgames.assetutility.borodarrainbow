@@ -1,0 +1,16 @@
+{
+  "name": "com.winuxgames.assetutility.borodarrainbow",
+  "version": "1.0.0",
+  "displayName": "Asset Utility Borodar Rainbow Assets",
+  "description": "Utility stuff for RainbowFolders and RainbowHierarchy",
+  "unity": "2021.2",
+  "dependencies": {
+    
+  },
+  "keywords": [],
+  "author": {
+    "name": "WinuXGames",
+    "email": "support@winuxgames.com",
+    "url": "https://www.winuxgames.com"
+  }
+}
