@@ -4,9 +4,7 @@
   "displayName": "Asset Utility Borodar Rainbow Assets",
   "description": "Utility stuff for RainbowFolders and RainbowHierarchy",
   "unity": "2021.2",
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "keywords": [],
   "author": {
     "name": "WinuXGames",
