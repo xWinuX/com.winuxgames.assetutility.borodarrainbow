@@ -1,7 +1,7 @@
-﻿using Borodar.RainbowHierarchy;
-using UnityEngine;
+﻿using UnityEngine;
 #if UNITY_EDITOR
 using UnityEditor;
+using Borodar.RainbowHierarchy;
 #endif
 
 namespace WinuXGames.AssetUtility.BorodarRainbow
