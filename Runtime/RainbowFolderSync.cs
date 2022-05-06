@@ -10,9 +10,9 @@ namespace WinuXGames.AssetUtility.BorodarRainbow
     public class RainbowFolderSync : MonoBehaviour
     {
         #if UNITY_EDITOR
-        private void OnEnable() { HierarchyRuleset.OnRulesetChangeCallback += OnRulesetChange; }
+        private void OnEnable() { HierarchyRulesetV2.OnRulesetChangeCallback += OnRulesetChange; }
 
-        private void OnDisable() { HierarchyRuleset.OnRulesetChangeCallback -= OnRulesetChange; }
+        private void OnDisable() { HierarchyRulesetV2.OnRulesetChangeCallback -= OnRulesetChange; }
 
         private void OnRulesetChange() { PrefabUtility.ApplyPrefabInstance(gameObject, InteractionMode.UserAction); }
         #endif
